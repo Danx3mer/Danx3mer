@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Danx3mer
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning OpenGL with C++
+- 👋 Hi, I’m Dan
+- 👀 I’m interested in the Stuy Robotics Team
+- 🌱 I’m currently learning robotic stuffs
 
 <!---
 Danx3mer/Danx3mer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
