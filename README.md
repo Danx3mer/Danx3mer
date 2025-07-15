@@ -1,4 +1,4 @@
-👋 Hi, I’m Daniel and I like coding literally everything. I am currently in Stuy's robotics team.
+👋 Hi, I’m Daniel
 
 [![DanTheMan95's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danx3mer&count_private=true&show_icons=true&theme=react)](https://github.com/Danx3mer)
 
