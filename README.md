@@ -5,7 +5,6 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danx3mer&theme=react)](https://github.com/Danx3mer)
 
 # My tech stack
-
 ## Languages
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
